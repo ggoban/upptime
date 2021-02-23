@@ -4,19 +4,16 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: kobic
+    url: https://www.kobic.re.kr
+  - name: kobis
+    url: https://www.kobis.re.kr
+  - name: biodata
+    url: https://www.biodata.kr
+  - name: bioexpress
+    url: https://www.bioexpress.re.kr
+  - name: ginet
+    url: https://ginet.kr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
