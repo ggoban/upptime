@@ -4,18 +4,20 @@
     "url": "https://www.kobic.re.kr",
     "icon": "https://favicons.githubusercontent.com/www.kobic.re.kr",
     "slug": "kobic",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1417,
     "timeDay": 1437,
     "timeWeek": 1417,
     "timeMonth": 1417,
     "timeYear": 1417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 3
+    }
   },
   {
     "name": "kobis",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 28,
+      "2021-02-26": 131,
       "2021-02-25": 1440,
       "2021-02-24": 1440,
       "2021-02-23": 1381
@@ -57,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-26": 28,
+      "2021-02-26": 131,
       "2021-02-25": 1440,
       "2021-02-24": 1440,
       "2021-02-23": 1381
@@ -68,18 +70,20 @@
     "url": "https://www.bioexpress.re.kr",
     "icon": "https://favicons.githubusercontent.com/www.bioexpress.re.kr",
     "slug": "bioexpress",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 2113,
     "timeDay": 4659,
     "timeWeek": 2113,
     "timeMonth": 2113,
     "timeYear": 2113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 2
+    }
   },
   {
     "name": "ginet",
@@ -87,18 +91,18 @@
     "icon": "https://favicons.githubusercontent.com/ginet.kr",
     "slug": "ginet",
     "status": "down",
-    "uptime": "96.53%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "96.53%",
+    "uptime": "94.26%",
+    "uptimeDay": "82.50%",
+    "uptimeWeek": "94.26%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "94.26%",
     "time": 770,
     "timeDay": 0,
     "timeWeek": 770,
     "timeMonth": 770,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2021-02-26": 28,
+      "2021-02-26": 131,
       "2021-02-25": 121
     }
   }
