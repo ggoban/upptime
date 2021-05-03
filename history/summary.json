@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1457,
-    "timeDay": 1364,
-    "timeWeek": 1270,
-    "timeMonth": 1384,
-    "timeYear": 1457,
+    "time": 1456,
+    "timeDay": 1417,
+    "timeWeek": 1306,
+    "timeMonth": 1382,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2021-02-26": 26
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-02": 47,
+      "2021-05-03": 43,
+      "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
@@ -124,7 +125,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-02": 47,
+      "2021-05-03": 43,
+      "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
@@ -201,16 +203,16 @@
     "icon": "https://favicons.githubusercontent.com/www.bioexpress.re.kr",
     "slug": "bioexpress",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1721,
-    "timeDay": 1728,
-    "timeWeek": 1456,
-    "timeMonth": 1570,
-    "timeYear": 1721,
+    "uptimeYear": "99.98%",
+    "time": 1716,
+    "timeDay": 1367,
+    "timeWeek": 1452,
+    "timeMonth": 1568,
+    "timeYear": 1716,
     "dailyMinutesDown": {
       "2021-02-26": 25
     }
@@ -227,9 +229,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 999,
-    "timeDay": 995,
-    "timeWeek": 957,
-    "timeMonth": 973,
+    "timeDay": 990,
+    "timeWeek": 967,
+    "timeMonth": 969,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2021-02-26": 154,
