@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1456,
-    "timeDay": 1417,
-    "timeWeek": 1306,
-    "timeMonth": 1382,
-    "timeYear": 1456,
+    "time": 1457,
+    "timeDay": 1531,
+    "timeWeek": 1342,
+    "timeMonth": 1379,
+    "timeYear": 1457,
     "dailyMinutesDown": {
       "2021-02-26": 26
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-03": 43,
+      "2021-05-04": 38,
+      "2021-05-03": 1440,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
@@ -125,7 +126,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-03": 43,
+      "2021-05-04": 38,
+      "2021-05-03": 1440,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
@@ -208,11 +210,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1716,
-    "timeDay": 1367,
-    "timeWeek": 1452,
+    "time": 1714,
+    "timeDay": 1631,
+    "timeWeek": 1405,
     "timeMonth": 1568,
-    "timeYear": 1716,
+    "timeYear": 1714,
     "dailyMinutesDown": {
       "2021-02-26": 25
     }
@@ -223,16 +225,16 @@
     "icon": "https://favicons.githubusercontent.com/ginet.kr",
     "slug": "ginet",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
-    "time": 999,
-    "timeDay": 990,
-    "timeWeek": 967,
-    "timeMonth": 969,
-    "timeYear": 999,
+    "uptimeYear": "99.73%",
+    "time": 1000,
+    "timeDay": 1041,
+    "timeWeek": 961,
+    "timeMonth": 968,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2021-02-26": 154,
       "2021-02-25": 121
