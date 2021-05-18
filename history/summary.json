@@ -4,10 +4,10 @@
     "url": "https://www.kobic.re.kr",
     "icon": "https://favicons.githubusercontent.com/www.kobic.re.kr",
     "slug": "kobic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1435,
@@ -16,6 +16,7 @@
     "timeMonth": 1317,
     "timeYear": 1435,
     "dailyMinutesDown": {
+      "2021-05-18": 2,
       "2021-02-26": 26
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-18": 48,
+      "2021-05-18": 633,
       "2021-05-17": 1440,
       "2021-05-16": 1440,
       "2021-05-15": 1440,
@@ -140,7 +141,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-18": 48,
+      "2021-05-18": 633,
       "2021-05-17": 1440,
       "2021-05-16": 1440,
       "2021-05-15": 1440,
@@ -232,10 +233,10 @@
     "url": "https://www.bioexpress.re.kr",
     "icon": "https://favicons.githubusercontent.com/www.bioexpress.re.kr",
     "slug": "bioexpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1688,
@@ -244,6 +245,7 @@
     "timeMonth": 1555,
     "timeYear": 1688,
     "dailyMinutesDown": {
+      "2021-05-18": 1,
       "2021-02-26": 25
     }
   },
@@ -253,18 +255,18 @@
     "icon": "https://favicons.githubusercontent.com/ginet.kr",
     "slug": "ginet",
     "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "24.75%",
-    "uptimeWeek": "89.25%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.88%",
+    "uptime": "98.40%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "83.45%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "98.40%",
     "time": 988,
     "timeDay": 0,
     "timeWeek": 889,
     "timeMonth": 939,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2021-05-18": 48,
+      "2021-05-18": 633,
       "2021-05-17": 1036,
       "2021-02-26": 154,
       "2021-02-25": 121
