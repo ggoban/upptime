@@ -1,7 +1,7 @@
 url: https://www.bioexpress.re.kr
-status: up
-code: 200
-responseTime: 2158
-lastUpdated: 2021-05-19T23:13:28.090Z
+status: down
+code: 502
+responseTime: 2181
+lastUpdated: 2021-05-20T22:58:19.299Z
 startTime: Tue Feb 23 2021 00:58:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
