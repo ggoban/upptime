@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: fowi
     url: https://fowi.or.kr
+  - name: portal
+    url: https://portal.fowi.or.kr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
