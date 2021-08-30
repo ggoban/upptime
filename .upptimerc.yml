@@ -4,16 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: kobic
-    url: https://www.kobic.re.kr
-  - name: kobis
-    url: https://www.kobis.re.kr
-  - name: biodata
-    url: https://www.biodata.kr
-  - name: bioexpress
-    url: https://www.bioexpress.re.kr
-  - name: ginet
-    url: https://ginet.kr
+  - name: fowi
+    url: https://fowi.or.kr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
