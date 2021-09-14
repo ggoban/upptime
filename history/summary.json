@@ -4,10 +4,10 @@
     "url": "https://fowi.or.kr",
     "icon": "https://favicons.githubusercontent.com/fowi.or.kr",
     "slug": "fowi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1046,
@@ -15,14 +15,16 @@
     "timeWeek": 1061,
     "timeMonth": 1046,
     "timeYear": 1046,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 1
+    }
   },
   {
     "name": "portal",
     "url": "https://portal.fowi.or.kr",
     "icon": "https://favicons.githubusercontent.com/portal.fowi.or.kr",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 970,
     "timeMonth": 998,
     "timeYear": 998,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-14": 0
+    }
   }
 ]
