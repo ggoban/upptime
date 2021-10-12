@@ -24,19 +24,20 @@
     "url": "https://portal.fowi.or.kr",
     "icon": "https://favicons.githubusercontent.com/portal.fowi.or.kr",
     "slug": "portal",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "85.62%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.67%",
-    "time": 1177,
-    "timeDay": 1280,
-    "timeWeek": 1040,
-    "timeMonth": 1252,
-    "timeYear": 1177,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "83.14%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.61%",
+    "time": 1182,
+    "timeDay": 1347,
+    "timeWeek": 1087,
+    "timeMonth": 1257,
+    "timeYear": 1182,
     "dailyMinutesDown": {
-      "2021-10-11": 207
+      "2021-10-12": 31,
+      "2021-10-11": 211
     }
   }
 ]
