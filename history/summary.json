@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/fowi.or.kr",
     "slug": "fowi",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "99.72%",
-    "time": 1071,
-    "timeDay": 1203,
-    "timeWeek": 1212,
+    "uptimeYear": "99.73%",
+    "time": 1067,
+    "timeDay": 818,
+    "timeWeek": 1213,
     "timeMonth": 1058,
-    "timeYear": 1071,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2021-10-11": 208
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.68%",
-    "time": 1140,
-    "timeDay": 682,
+    "time": 1135,
+    "timeDay": 823,
     "timeWeek": 925,
-    "timeMonth": 974,
-    "timeYear": 1140,
+    "timeMonth": 978,
+    "timeYear": 1135,
     "dailyMinutesDown": {
       "2021-10-12": 31,
       "2021-10-11": 211
