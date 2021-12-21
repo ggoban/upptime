@@ -4,9 +4,9 @@
     "url": "https://fowi.or.kr",
     "icon": "https://favicons.githubusercontent.com/fowi.or.kr",
     "slug": "fowi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 1125,
     "timeYear": 1107,
     "dailyMinutesDown": {
+      "2021-12-21": 0,
       "2021-10-25": 66,
       "2021-10-11": 208
     }
