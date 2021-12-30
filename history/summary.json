@@ -25,7 +25,7 @@
     "url": "https://portal.fowi.or.kr",
     "icon": "https://favicons.githubusercontent.com/portal.fowi.or.kr",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 999,
     "timeYear": 1077,
     "dailyMinutesDown": {
+      "2021-12-30": 0,
       "2021-10-25": 66,
       "2021-10-12": 31,
       "2021-10-11": 211
