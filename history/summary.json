@@ -4,10 +4,10 @@
     "url": "https://fowi.or.kr",
     "icon": "https://favicons.githubusercontent.com/fowi.or.kr",
     "slug": "fowi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1110,
@@ -16,6 +16,7 @@
     "timeMonth": 1105,
     "timeYear": 1110,
     "dailyMinutesDown": {
+      "2022-02-12": 1,
       "2021-10-25": 66,
       "2021-10-11": 208
     }
@@ -25,7 +26,7 @@
     "url": "https://portal.fowi.or.kr",
     "icon": "https://favicons.githubusercontent.com/portal.fowi.or.kr",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 1000,
     "timeYear": 1087,
     "dailyMinutesDown": {
+      "2022-02-12": 0,
       "2022-01-11": 22,
       "2022-01-03": 72,
       "2021-10-25": 66,
