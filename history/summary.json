@@ -12,7 +12,7 @@
     "uptimeYear": "99.88%",
     "time": 1110,
     "timeDay": 1079,
-    "timeWeek": 1194,
+    "timeWeek": 1158,
     "timeMonth": 1119,
     "timeYear": 1110,
     "dailyMinutesDown": {
@@ -26,7 +26,7 @@
     "url": "https://portal.fowi.or.kr",
     "icon": "https://favicons.githubusercontent.com/portal.fowi.or.kr",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -38,6 +38,7 @@
     "timeMonth": 1011,
     "timeYear": 1088,
     "dailyMinutesDown": {
+      "2022-02-17": 0,
       "2022-02-12": 21,
       "2022-01-11": 22,
       "2022-01-03": 72,
