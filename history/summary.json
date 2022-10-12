@@ -6,17 +6,16 @@
     "slug": "fowi",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 1379,
     "timeDay": 859,
     "timeWeek": 1163,
     "timeMonth": 1274,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2022-10-11": 2,
       "2022-09-27": 16,
       "2022-09-21": 32,
       "2022-08-24": 338,
@@ -40,12 +39,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.84%",
     "time": 1758,
     "timeDay": 856,
     "timeWeek": 1017,
     "timeMonth": 1304,
-    "timeYear": 1816,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2022-09-27": 15,
       "2022-09-21": 17,
@@ -59,8 +58,7 @@
       "2022-02-12": 21,
       "2022-01-11": 22,
       "2022-01-03": 72,
-      "2021-10-25": 66,
-      "2021-10-12": 31
+      "2021-10-25": 66
     }
   }
 ]
