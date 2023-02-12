@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fowi.or.kr.ico",
     "slug": "fowi",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.26%",
-    "time": 1415,
-    "timeDay": 846,
-    "timeWeek": 1161,
-    "timeMonth": 1642,
+    "time": 1416,
+    "timeDay": 1331,
+    "timeWeek": 1219,
+    "timeMonth": 1639,
     "timeYear": 1521,
     "dailyMinutesDown": {
       "2023-01-25": 16,
@@ -37,8 +37,7 @@
       "2022-05-20": 93,
       "2022-05-19": 163,
       "2022-04-28": 23,
-      "2022-02-26": 212,
-      "2022-02-12": 21
+      "2022-02-26": 212
     }
   },
   {
@@ -53,10 +52,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.34%",
     "time": 1798,
-    "timeDay": 860,
-    "timeWeek": 1132,
-    "timeMonth": 1443,
-    "timeYear": 1941,
+    "timeDay": 1373,
+    "timeWeek": 1136,
+    "timeMonth": 1442,
+    "timeYear": 1942,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2023-01-21": 23,
@@ -77,8 +76,7 @@
       "2022-07-29": 18,
       "2022-05-08": 72,
       "2022-05-07": 45,
-      "2022-04-28": 23,
-      "2022-02-12": 21
+      "2022-04-28": 23
     }
   }
 ]
