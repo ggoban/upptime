@@ -8,13 +8,13 @@
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.43%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.02%",
-    "time": 1572,
-    "timeDay": 1702,
-    "timeWeek": 1348,
-    "timeMonth": 2239,
-    "timeYear": 1641,
+    "time": 1573,
+    "timeDay": 1274,
+    "timeWeek": 1347,
+    "timeMonth": 1815,
+    "timeYear": 1642,
     "dailyMinutesDown": {
       "2023-03-29": 47,
       "2023-03-28": 268,
@@ -43,8 +43,7 @@
       "2022-06-22": 22,
       "2022-05-23": 50,
       "2022-05-20": 93,
-      "2022-05-19": 163,
-      "2022-04-28": 23
+      "2022-05-19": 163
     }
   },
   {
@@ -52,18 +51,19 @@
     "url": "https://portal.fowi.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/portal.fowi.or.kr.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.35%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.05%",
-    "time": 2186,
-    "timeDay": 2878,
-    "timeWeek": 2452,
-    "timeMonth": 3804,
-    "timeYear": 2509,
+    "time": 2189,
+    "timeDay": 1990,
+    "timeWeek": 2338,
+    "timeMonth": 3296,
+    "timeYear": 2511,
     "dailyMinutesDown": {
+      "2023-04-28": 0,
       "2023-03-29": 53,
       "2023-03-28": 279,
       "2023-03-27": 390,
@@ -90,8 +90,7 @@
       "2022-07-30": 28,
       "2022-07-29": 18,
       "2022-05-08": 72,
-      "2022-05-07": 45,
-      "2022-04-28": 23
+      "2022-05-07": 45
     }
   }
 ]
