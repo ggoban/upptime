@@ -4,9 +4,9 @@
     "url": "https://fowi.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/fowi.or.kr.ico",
     "slug": "fowi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.14%",
@@ -16,6 +16,7 @@
     "timeMonth": 2585,
     "timeYear": 2165,
     "dailyMinutesDown": {
+      "2023-11-13": 0,
       "2023-10-26": 25,
       "2023-10-11": 37,
       "2023-10-06": 163,
@@ -69,7 +70,7 @@
     "time": 3551,
     "timeDay": 2423,
     "timeWeek": 5286,
-    "timeMonth": 4535,
+    "timeMonth": 4558,
     "timeYear": 3705,
     "dailyMinutesDown": {
       "2023-10-12": 18,
