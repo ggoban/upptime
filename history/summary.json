@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "98.04%",
-    "time": 2092,
-    "timeDay": 3672,
-    "timeWeek": 3061,
-    "timeMonth": 2524,
+    "time": 2093,
+    "timeDay": 1270,
+    "timeWeek": 3104,
+    "timeMonth": 2531,
     "timeYear": 2233,
     "dailyMinutesDown": {
       "2023-11-24": 584,
@@ -50,8 +50,7 @@
       "2022-12-08": 30,
       "2022-12-06": 22,
       "2022-12-05": 1071,
-      "2022-12-04": 1223,
-      "2022-12-03": 324
+      "2022-12-04": 1223
     }
   },
   {
@@ -60,18 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.fowi.or.kr.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.40%",
+    "uptime": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "98.78%",
-    "time": 3620,
-    "timeDay": 6191,
-    "timeWeek": 5293,
-    "timeMonth": 4877,
-    "timeYear": 3862,
+    "time": 3621,
+    "timeDay": 4503,
+    "timeWeek": 4854,
+    "timeMonth": 4894,
+    "timeYear": 3864,
     "dailyMinutesDown": {
-      "2023-12-02": 8,
       "2023-11-24": 665,
       "2023-11-19": 28,
       "2023-10-12": 18,
@@ -109,8 +107,7 @@
       "2022-12-08": 30,
       "2022-12-06": 22,
       "2022-12-05": 1070,
-      "2022-12-04": 1223,
-      "2022-12-03": 323
+      "2022-12-04": 1223
     }
   }
 ]
