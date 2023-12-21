@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "98.54%",
-    "time": 2118,
-    "timeDay": 1325,
-    "timeWeek": 2046,
-    "timeMonth": 2395,
-    "timeYear": 2242,
+    "time": 2119,
+    "timeDay": 2603,
+    "timeWeek": 2145,
+    "timeMonth": 2418,
+    "timeYear": 2244,
     "dailyMinutesDown": {
       "2023-11-24": 584,
       "2023-10-26": 25,
@@ -45,8 +45,7 @@
       "2023-03-19": 64,
       "2023-01-25": 16,
       "2023-01-21": 23,
-      "2023-01-05": 16,
-      "2022-12-21": 29
+      "2023-01-05": 16
     }
   },
   {
@@ -56,17 +55,16 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "99.28%",
-    "time": 3686,
-    "timeDay": 3825,
-    "timeWeek": 4105,
-    "timeMonth": 4236,
-    "timeYear": 3935,
+    "time": 3688,
+    "timeDay": 3939,
+    "timeWeek": 4023,
+    "timeMonth": 4244,
+    "timeYear": 3937,
     "dailyMinutesDown": {
-      "2023-12-20": 5,
       "2023-12-16": 41,
       "2023-12-14": 17,
       "2023-11-24": 665,
@@ -101,8 +99,7 @@
       "2023-03-19": 27,
       "2023-01-25": 16,
       "2023-01-21": 23,
-      "2023-01-05": 16,
-      "2022-12-21": 29
+      "2023-01-05": 16
     }
   }
 ]
