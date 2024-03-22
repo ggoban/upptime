@@ -6,15 +6,15 @@
     "slug": "fowi",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "98.49%",
     "time": 2262,
-    "timeDay": 5727,
-    "timeWeek": 3076,
-    "timeMonth": 2700,
-    "timeYear": 2431,
+    "timeDay": 1270,
+    "timeWeek": 3080,
+    "timeMonth": 2603,
+    "timeYear": 2432,
     "dailyMinutesDown": {
       "2024-03-20": 19,
       "2024-03-11": 55,
@@ -48,8 +48,7 @@
       "2023-03-28": 268,
       "2023-03-27": 373,
       "2023-03-25": 24,
-      "2023-03-24": 48,
-      "2023-03-23": 572
+      "2023-03-24": 48
     }
   },
   {
@@ -63,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.21%",
-    "time": 3900,
-    "timeDay": 2809,
-    "timeWeek": 3064,
-    "timeMonth": 2686,
-    "timeYear": 4110,
+    "time": 3897,
+    "timeDay": 860,
+    "timeWeek": 2944,
+    "timeMonth": 2511,
+    "timeYear": 4109,
     "dailyMinutesDown": {
       "2024-03-11": 71,
       "2024-03-08": 84,
@@ -105,8 +104,7 @@
       "2023-03-28": 279,
       "2023-03-27": 390,
       "2023-03-25": 41,
-      "2023-03-24": 47,
-      "2023-03-23": 576
+      "2023-03-24": 47
     }
   }
 ]
