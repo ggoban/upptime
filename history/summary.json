@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fowi.or.kr.ico",
     "slug": "fowi",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "98.49%",
-    "time": 2262,
-    "timeDay": 1270,
-    "timeWeek": 3080,
-    "timeMonth": 2603,
-    "timeYear": 2432,
+    "uptimeYear": "98.51%",
+    "time": 2267,
+    "timeDay": 4998,
+    "timeWeek": 3163,
+    "timeMonth": 2703,
+    "timeYear": 2437,
     "dailyMinutesDown": {
       "2024-03-20": 19,
       "2024-03-11": 55,
@@ -47,8 +47,7 @@
       "2023-03-29": 47,
       "2023-03-28": 268,
       "2023-03-27": 373,
-      "2023-03-25": 24,
-      "2023-03-24": 48
+      "2023-03-25": 24
     }
   },
   {
@@ -61,12 +60,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.24%",
     "time": 3897,
-    "timeDay": 860,
-    "timeWeek": 2944,
-    "timeMonth": 2511,
-    "timeYear": 4109,
+    "timeDay": 1103,
+    "timeWeek": 2573,
+    "timeMonth": 2384,
+    "timeYear": 4108,
     "dailyMinutesDown": {
       "2024-03-11": 71,
       "2024-03-08": 84,
@@ -103,8 +102,7 @@
       "2023-03-29": 53,
       "2023-03-28": 279,
       "2023-03-27": 390,
-      "2023-03-25": 41,
-      "2023-03-24": 47
+      "2023-03-25": 41
     }
   }
 ]
