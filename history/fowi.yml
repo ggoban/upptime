@@ -1,7 +1,7 @@
 url: https://fowi.or.kr
-status: up
-code: 200
-responseTime: 5961
-lastUpdated: 2024-03-28T13:37:26.587Z
+status: down
+code: 503
+responseTime: 27117
+lastUpdated: 2024-03-28T14:03:46.591Z
 startTime: 2021-08-30T01:19:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
